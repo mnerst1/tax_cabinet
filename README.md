@@ -1,4 +1,5 @@
-# tax-cabinet
+# tax-cabinet  <img width="361" height="73" alt="image" src="https://github.com/user-attachments/assets/7524f281-aca7-4ea1-9a35-73cb514278b0" />
+
 Tax office website for Kazakhstan - PHP &amp; MySQL project
 This project is an educational version of the Tax Office of the Republic of Kazakhstan, intended for educational purposes only and is not intended for distribution.
 
